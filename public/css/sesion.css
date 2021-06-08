@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+
+nav{
+    background-color: lightblue;
+}
+
+#navbarDropdownMenuLink{
+    color: blue;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: blue;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: white;
+    border: 0;
+  }
+
+.nav-link{
+    background-color: white;
+    border-color: white;
+}
+
+#noticias, #eventos{
+    border: solid;
+    margin: 1px;
+}
+
+#sesion{
+    text-align: right;
+}
+

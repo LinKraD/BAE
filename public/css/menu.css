@@ -1,0 +1,79 @@
+.container{
+    min-height:100vh;
+    position:relative;
+}
+
+nav{
+    background-color: lightblue;
+}
+
+#navbarDropdownMenuLink{
+    color: blue;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: blue;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: white;
+    border: 0;
+  }
+
+.nav-link{
+    background-color: white;
+    border-color: white;
+}
+
+#noticias, #eventos{
+    border: solid;
+    margin: 1px;
+}
+
+#sesion{
+    text-align: right;
+}
+
+.galerybar{
+    background-color: rgb(63, 157, 189);
+}
+
+.usuario{
+    float:left;
+    padding: 10px;
+}
+
+.footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.idiomas{
+    width: 20%;
+    float: left;
+}
+
+.btn_perfil{
+    text-align: right; 
+}
+
+.info{
+    float: left;
+    text-align: center;
+}
+
+.redes{
+    width: 20%;
+    text-align: left;
+}
+
+.imagen{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
